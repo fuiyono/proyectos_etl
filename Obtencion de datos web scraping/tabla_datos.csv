@@ -1,55 +1,55 @@
 ID,NAME,COUNTRY,SO2 MASS*[tons],THERMAL ANOMALIES*[npix],DEFORMATION*std.dev [m],LATEST product
-211040,Stromboli,Italy,0,0,0,2025-02-07 12:56 S5P
-211050,Vulcano,Italy,0,1,0,2025-02-07 12:56 S5P
-211060,Etna,Italy,0,63,8.9e-05,2025-02-07 12:56 S5P
-221080,Erta Ale,Ethiopia,0,84,0,2025-02-07 11:11 S5P
-221190,Fentale,Ethiopia,0,,2.7e-03,2025-02-07 11:06 S5P
+211040,Stromboli,Italy,0,0,0,2025-02-08 12:36 S5P
+211050,Vulcano,Italy,0,1,0,2025-02-08 12:36 S5P
+211060,Etna,Italy,30,63,8.9e-05,2025-02-08 12:36 S5P
+221080,Erta Ale,Ethiopia,0,84,0,2025-02-08 10:51 S5P
+221190,Fentale,Ethiopia,0,,2.7e-03,2025-02-08 10:51 S5P
 222120,"Lengai, Ol Doinyo",Tanzania,0,10,0,2025-02-07 11:06 S5P
-223020,Nyamuragira,D.R. Congo,2554,0,0,2025-02-07 11:06 S5P
-223030,Nyiragongo,D.R. Congo,2510,0,0,2025-02-07 11:06 S5P
-233020,"Fournaise, Piton de la",France,0,0,0,2025-02-07 09:21 S5P
+223020,Nyamuragira,D.R. Congo,2030,0,0,2025-02-08 10:46 S5P
+223030,Nyiragongo,D.R. Congo,2030,0,0,2025-02-08 10:46 S5P
+233020,"Fournaise, Piton de la",France,0,0,0,2025-02-08 10:41 S5P
 243040,Hunga Tonga-Hunga,Tonga,0,0,1.8e-05,2022-07-06 21:59 S2
-243060,Tofua,Tonga,22,22,0,2025-02-07 00:51 S5P
-251002,Kadovar,Papua New Guinea,0,0,0,2025-02-06 20:05 S1
-251020,Manam,Papua New Guinea,0,7,1.3e-05,2025-02-06 04:36 S5P
-252010,Langila,Papua New Guinea,0,0,0,2025-02-06 02:56 S5P
-252120,Ulawun,Papua New Guinea,0,0,4.1e-05,2025-02-07 02:36 S5P
-252140,Rabaul,Papua New Guinea,0,0,0,2025-02-07 02:36 S5P
-255010,Balbi,Papua New Guinea,1,0,0,2025-02-07 02:36 S5P
-255020,Bagana,Papua New Guinea,636,0,0,2025-02-07 02:36 S5P
-257030,Aoba,Vanuatu,12,0,0,2025-02-07 02:31 S5P
-257040,Ambrym,Vanuatu,0,0,0,2025-02-07 02:31 S5P
-257050,Lopevi,Vanuatu,0,0,0,2025-02-07 02:31 S5P
-257100,Yasur,Vanuatu,0,0,0,2025-02-07 02:31 S5P
-260010,Barren Island,India,0,0,,2025-02-07 07:46 S5P
-261080,Sinabung,Indonesia,0,0,0,2025-02-07 11:42 S1
+243060,Tofua,Tonga,0,22,0,2025-02-08 02:11 S5P
+251002,Kadovar,Papua New Guinea,0,0,0,2025-02-08 04:01 S5P
+251020,Manam,Papua New Guinea,83,7,1.3e-05,2025-02-08 04:01 S5P
+252010,Langila,Papua New Guinea,0,0,0,2025-02-08 04:01 S5P
+252120,Ulawun,Papua New Guinea,0,0,4.1e-05,2025-02-08 04:01 S5P
+252140,Rabaul,Papua New Guinea,0,0,0,2025-02-08 04:01 S5P
+255010,Balbi,Papua New Guinea,4,0,0,2025-02-08 03:56 S5P
+255020,Bagana,Papua New Guinea,0,0,0,2025-02-08 03:56 S5P
+257030,Aoba,Vanuatu,0,0,0,2025-02-08 02:16 S5P
+257040,Ambrym,Vanuatu,0,0,0,2025-02-08 02:16 S5P
+257050,Lopevi,Vanuatu,0,0,0,2025-02-08 02:16 S5P
+257100,Yasur,Vanuatu,0,0,0,2025-02-08 02:16 S5P
+260010,Barren Island,India,0,0,,2025-02-08 07:26 S5P
+261080,Sinabung,Indonesia,8,0,0,2025-02-08 07:26 S5P
 261140,Marapi,Indonesia,0,8,0,2025-02-07 06:01 S5P
 261170,Kerinci,Indonesia,0,0,0,2025-02-07 06:01 S5P
-262000,Krakatau,Indonesia,0,0,0,2025-02-07 06:01 S5P
-263180,Slamet,Indonesia,0,3,0,2025-02-07 06:01 S5P
-263250,Merapi,Indonesia,0,21,4.6e-06,2025-02-07 06:01 S5P
-263300,Semeru,Indonesia,201,1,0,2025-02-07 06:01 S5P
-263340,Raung,Indonesia,201,0,0,2025-02-07 06:01 S5P
-263350,Ijen,Indonesia,201,8,0,2025-02-07 06:01 S5P
-264180,Lewotobi,Indonesia,0,0,0,2025-02-07 05:56 S5P
-264230,Lewotolok,Indonesia,103,2,0,2025-02-07 05:56 S5P
-267010,Ruang,Indonesia,0,0,0,2025-02-07 04:21 S5P
-267020,Karangetang,Indonesia,0,0,0,2025-02-07 04:21 S5P
-267040,Awu,Indonesia,0,0,1.2e-05,2025-02-07 04:21 S5P
-268010,Dukono,Indonesia,0,0,0,2025-02-07 04:21 S5P
-268030,Ibu,Indonesia,0,3,0,2025-02-07 04:21 S5P
-272020,Kanlaon,Philippines,0,0,0,2025-02-07 04:21 S5P
-273010,Bulusan,Philippines,0,0,0,2025-02-07 04:26 S5P
-273030,Mayon,Philippines,0,0,0,2025-02-07 04:26 S5P
-273070,Taal,Philippines,0,2,0,2025-02-07 06:06 S5P
-282080,Aira (Sakurajima),Japan,0,0,0,2025-02-07 04:26 S5P
-282110,Asosan,Japan,0,0,0,2025-02-07 04:31 S5P
-290240,Sarychev Peak,Russia,0,0,0,2025-02-07 02:51 S5P
-300250,Bezymianny,Russia,0,0,0,2025-02-07 02:56 S5P
-300260,Klyuchevskoy,Russia,0,0,0,2025-02-07 02:56 S5P
-300270,Sheveluch,Russia,0,0,0,2025-02-07 02:56 S5P
+262000,Krakatau,Indonesia,0,0,0,2025-02-08 05:41 S5P
+263180,Slamet,Indonesia,0,3,0,2025-02-08 05:41 S5P
+263250,Merapi,Indonesia,0,21,4.6e-06,2025-02-08 05:41 S5P
+263300,Semeru,Indonesia,0,1,0,2025-02-08 05:41 S5P
+263340,Raung,Indonesia,0,0,0,2025-02-08 05:41 S5P
+263350,Ijen,Indonesia,0,8,0,2025-02-08 05:41 S5P
+264180,Lewotobi,Indonesia,0,0,0,2025-02-08 05:41 S5P
+264230,Lewotolok,Indonesia,0,2,0,2025-02-08 05:41 S5P
+267010,Ruang,Indonesia,0,0,0,2025-02-08 05:41 S5P
+267020,Karangetang,Indonesia,0,0,0,2025-02-08 05:41 S5P
+267040,Awu,Indonesia,0,0,1.2e-05,2025-02-08 05:41 S5P
+268010,Dukono,Indonesia,0,0,0,2025-02-08 05:41 S5P
+268030,Ibu,Indonesia,0,3,0,2025-02-08 05:41 S5P
+272020,Kanlaon,Philippines,41,0,0,2025-02-08 05:46 S5P
+273010,Bulusan,Philippines,0,0,0,2025-02-08 05:46 S5P
+273030,Mayon,Philippines,0,0,0,2025-02-08 05:46 S5P
+273070,Taal,Philippines,0,2,0,2025-02-08 05:46 S5P
+282080,Aira (Sakurajima),Japan,0,0,0,2025-02-08 04:11 S5P
+282110,Asosan,Japan,0,0,0,2025-02-08 04:11 S5P
+290240,Sarychev Peak,Russia,0,0,0,2025-02-08 02:31 S5P
+300250,Bezymianny,Russia,0,0,0,2025-02-08 02:36 S5P
+300260,Klyuchevskoy,Russia,0,0,0,2025-02-08 02:36 S5P
+300270,Sheveluch,Russia,0,0,0,2025-02-08 02:36 S5P
 332010,Kilauea rift-zone,United States,0,0,7.4e-05,2019-10-29 23:49 S5P
-332020,Mauna Loa,United States,0,0,0,2025-02-06 23:21 S5P
+332020,Mauna Loa,United States,22,0,0,2025-02-07 23:01 S5P
 341040,Colima,Mexico,0,0,0,2025-02-07 19:41 S5P
 341090,Popocatépetl,Mexico,480,0,0,2025-02-07 19:41 S5P
 342030,Santa María,Guatemala,0,0,0,2025-02-07 19:36 S5P
@@ -73,22 +73,22 @@ ID,NAME,COUNTRY,SO2 MASS*[tons],THERMAL ANOMALIES*[npix],DEFORMATION*std.dev [m]
 352090,Sangay,Ecuador,4,62,0,2025-02-06 18:11 S5P
 353010,Fernandina,Ecuador,0,0,0,2025-02-07 19:31 S5P
 353020,Wolf,Ecuador,0,0,0,2025-02-07 19:31 S5P
-354006,Sabancaya,Peru,0,33,0,2025-02-06 18:06 S5P
+354006,Sabancaya,Peru,0,33,0,2025-02-07 17:46 S5P
 354020,Ubinas,Peru,0,14,0,2025-02-07 17:46 S5P
-355100,Láscar,Chile,179,0,0,2025-02-07 17:46 S5P
-357040,Planchón-Peteroa,Chile,0,0,0,2025-02-07 19:21 S5P
-357061,"Maule, Laguna del",Chile,0,,,2025-02-07 17:41 S5P
+355100,Láscar,Chile,0,0,0,2025-02-08 17:26 S5P
+357040,Planchón-Peteroa,Chile,0,0,0,2025-02-08 19:01 S5P
+357061,"Maule, Laguna del",Chile,0,,,2025-02-07 19:21 S5P
 357070,"Chillán, Nevados de",Chile,0,0,0,2025-02-07 19:21 S5P
 357090,Copahue,Argentina-Chile,0,0,0,2025-02-07 19:21 S5P
 357110,Llaima,Chile,0,0,0,2025-02-07 19:21 S5P
 357120,Villarrica,Chile,0,15,1.6e-04,2025-02-07 19:21 S5P
 360050,Soufrière Hills,United Kingdom,0,0,0,2025-02-07 17:56 S5P
-360150,Soufrière St. Vincent,Saint Vincent and the Grenadines,0,0,0,2025-02-07 17:56 S5P
-371030,Fagradalsfjall,Iceland,0,0,0,2025-02-07 14:46 S5P
+360150,Soufrière St. Vincent,Saint Vincent and the Grenadines,0,0,0,2025-02-08 17:36 S5P
+371030,Fagradalsfjall,Iceland,0,0,0,2025-02-08 14:26 S5P
 382030,São Jorge,Portugal,0,0,0,2022-07-07 15:16 S5P
-383010,La Palma,Spain,0,0,0,2025-02-07 14:36 S5P
+383010,La Palma,Spain,0,0,0,2025-02-08 14:16 S5P
 22119080,Fentale 80km,Ethiopia,,,7.8e-04,2025-02-03 03:09 S1
-332010,Kilauea,United States,224,0,0,2025-02-06 23:21 S5P
+332010,Kilauea,United States,22,0,0,2025-02-07 23:01 S5P
 33202030,Mauna Loa 30km,United States,0,5,0,2023-01-25 00:13 S5P
 35301030,Fernandina 30km,Ecuador,0,0,0,2024-06-10 00:27 S1
 35302020,Wolf 20km,Ecuador,0,0,0,2022-05-10 19:57 S5P
